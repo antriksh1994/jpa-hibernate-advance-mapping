@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.antriksh</groupId>
-	<artifactId>crudedemo</artifactId>
+	<artifactId>cruddemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>crudedemo</name>
+	<name>cruddemo</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
